@@ -1,1 +1,1 @@
-hi ,this is a git
+hi ,this is a git text added in the new file.hi
